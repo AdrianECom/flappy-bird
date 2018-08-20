@@ -1,0 +1,16 @@
+{
+  "buildFiles": [
+    "/home/adri/Dropbox/Projects/Android/gles3jni/app/src/main/cpp/CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "/home/adri/Android/Sdk/cmake/3.6.4111459/bin/cmake --build /home/adri/Dropbox/Projects/Android/gles3jni/app/.externalNativeBuild/cmake/debug/armeabi-v7a --target clean"
+  ],
+  "libraries": {
+    "gles2jni-Debug-armeabi-v7a": {
+      "artifactName": "gles2jni",
+      "buildCommand": "/home/adri/Android/Sdk/cmake/3.6.4111459/bin/cmake --build /home/adri/Dropbox/Projects/Android/gles3jni/app/.externalNativeBuild/cmake/debug/armeabi-v7a --target gles2jni",
+      "abi": "armeabi-v7a",
+      "output": "/home/adri/Dropbox/Projects/Android/gles3jni/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libgles2jni.so"
+    }
+  }
+}

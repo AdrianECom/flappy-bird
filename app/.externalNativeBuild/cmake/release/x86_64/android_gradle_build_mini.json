@@ -1,0 +1,16 @@
+{
+  "buildFiles": [
+    "/home/adri/Dropbox/Projects/Android/gles3jni/app/src/main/cpp/CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "/home/adri/Android/Sdk/cmake/3.6.4111459/bin/cmake --build /home/adri/Dropbox/Projects/Android/gles3jni/app/.externalNativeBuild/cmake/release/x86_64 --target clean"
+  ],
+  "libraries": {
+    "gles2jni-Release-x86_64": {
+      "artifactName": "gles2jni",
+      "buildCommand": "/home/adri/Android/Sdk/cmake/3.6.4111459/bin/cmake --build /home/adri/Dropbox/Projects/Android/gles3jni/app/.externalNativeBuild/cmake/release/x86_64 --target gles2jni",
+      "abi": "x86_64",
+      "output": "/home/adri/Dropbox/Projects/Android/gles3jni/app/build/intermediates/cmake/release/obj/x86_64/libgles2jni.so"
+    }
+  }
+}

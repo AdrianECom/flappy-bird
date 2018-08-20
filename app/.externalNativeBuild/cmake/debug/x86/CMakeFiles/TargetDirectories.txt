@@ -1,0 +1,3 @@
+/home/adri/Dropbox/Projects/Android/gles3jni/app/.externalNativeBuild/cmake/debug/x86/CMakeFiles/edit_cache.dir
+/home/adri/Dropbox/Projects/Android/gles3jni/app/.externalNativeBuild/cmake/debug/x86/CMakeFiles/rebuild_cache.dir
+/home/adri/Dropbox/Projects/Android/gles3jni/app/.externalNativeBuild/cmake/debug/x86/CMakeFiles/gles2jni.dir

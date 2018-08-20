@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gles2jni_activity">Flappy-Bird</string>
+</resources>
